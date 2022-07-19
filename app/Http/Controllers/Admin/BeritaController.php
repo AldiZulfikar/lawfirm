@@ -29,7 +29,7 @@ class BeritaController extends Controller
     public function create(Request $request)
     {
         $this->validate($request, [
-            'gambar_berita' => 'required|mimes:jpg,jpeg,bmp,png|max:5012',
+            'gambar_berita' => 'required|max:5012',
             'judul' => 'required',
             'konten' => 'required',
         ]);
