@@ -36,8 +36,8 @@
                     © <script>
                     document.write(new Date().getFullYear())
                     </script>,
-                    <a href="" class="font-weight-bold" target="_blank">Website Desa</a>
-                    Karehkel.
+                    <a href="" class="font-weight-bold" target="_blank">ABP</a>
+                    Law Firm.
                 </div>
                 </div>
             </div>
