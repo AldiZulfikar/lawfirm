@@ -6,12 +6,12 @@
           <div class="card my-4">
             <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
               <div class="bg-gradient-primary shadow-primary border-radius-lg pt-4 pb-3">
-                <h6 class="text-white text-capitalize ps-3">Tabel Berita Desa</h6>
+                <h6 class="text-white text-capitalize ps-3">Tabel Berita</h6>
               </div>
             </div>
             <div class="card-body px-0 pb-2">
             <div class="col-12 text-end pb-4">
-                <a class="btn bg-gradient-primary mb-0" href="{{route('admin-tambah-berita-abpadmin')}}"><i class="material-icons text-sm">add</i>&nbsp;&nbsp;Tambah Berita Desa</a>
+                <a class="btn bg-gradient-primary mb-0" href="{{route('admin-tambah-berita-abpadmin')}}"><i class="material-icons text-sm">add</i>&nbsp;&nbsp;Tambah Berita</a>
             </div>
               <div class="table-responsive p-0">
                 <table class="table align-items-center mb-0">
