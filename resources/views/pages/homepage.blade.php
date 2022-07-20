@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title>ABP Law Firm</title>
+		<title>ABP Lawfirm</title>
 		<meta content="width=device-width, initial-scale=1.0" name="viewport" />
 		<meta content="Free HTML Templates" name="keywords" />
 		<meta content="Free HTML Templates" name="description" />
@@ -131,7 +131,7 @@
 									ABP Lawfirm
 								</h5>
 								<h1 class="display-1 text-white mb-md-4 animated zoomIn">
-									Hukum adalah hati Nurani Publik
+									Hukum adalah Hati Nurani Publik
 								</h1>
 								<a
 									href="#contact"
@@ -202,7 +202,7 @@
 					<div class="col-lg-7">
 						<div class="section-title position-relative pb-3 mb-5">
 							<h5 class="fw-bold text-primary text-uppercase">About Us</h5>
-							<h1 class="mb-0">kantor Hukum Perseorangan</h1>
+							<h1 class="mb-0">Kantor Hukum Perseorangan</h1>
 						</div>
 						<p class="mb-4 fw-bold">ABP Lawfirm has been providing personalized and timely advice to people in Serang Banten since 2000. I know how complicated and overwhelming the legal process is. This is why my goal is to help you understand your rights and the issues affecting your case.</p>
 						<p class="mb-4">
@@ -324,7 +324,7 @@
 								<h4>Licenses (Perizinan)</h4>
 								<p class="mb-0 text-primary">
 									Licenses operating a business requires you to manage licenses according to your business sector. Licensing handling services allow you to manage your company's legal administration.
-								</p><br>
+								</p><hr size="5px" style="color: #ffbf00; width:50%">
 								<p class="mb-0">
 									Mengoperasikan bisnis mengharuskan anda untuk mengelola perizinan sesuai dengan sektor bisnis anda. Layanan penanganan perizinan memungkinkan anda mengelola administrasi hukum perusahaan anda.
 								</p>
@@ -347,7 +347,7 @@
 								<h4>Litigation in Court (Perkara di Persidangan)</h4>
 								<p class="mb-0 text-primary">
 									Litigation in Court legal services in handling and assisting clients for various problems through the Court at all levels of examination to the Court.
-								</p><br>
+								</p><hr size="5px" style="color: #ffbf00; width:50%;">
 								<p class="mb-0">
 									Layanan hukum dalam menangani dan mendampingi klien untuk berbagai masalah melalui jalur Pengadilan di seluruh tingkatan pemeriksaan hingga ke Pengadilan. 
 								</p>
@@ -370,7 +370,7 @@
 								<h4>Industrial Relation & Labor Law (Hubungan Industrial & Hukum Ketenagakerjaan)</h4>
 								<p class="mb-0 text-primary">
 									Industrial Relations & Labor Law services in the field of immigration and employment law, trade union relations and employment contracts, negotiations and labor disputes, including representing clients in disputes at the Industrial Relations District Court if needed.
-								</p><br>
+								</p><hr size="5px" style="color: #ffbf00; width:50%;">
 								<p class="mb-0">
 									Layanan di bidang hukum imigrasi dan ketenagakerjaan, hubungan dengan serikat pekerja dan kontrak kerja, negosiasi dan perselisihan ketenagakerjaan, termasuk mewakili klien dalam perselisihan di Pengadilan Negeri Hubungan Industrial jika dibutuhkan. 
 								</p>
@@ -393,7 +393,7 @@
 								<h4>Corporate Legal Consultant (Konsultan Hukum Perusahaan)</h4>
 								<p class="mb-0 text-primary">
 									Corporate Legal Consultant provides legal services for local and multi-national companies, including managing various aspects required for the establishment and operation of companies in Indonesia.
-								</p><br>
+								</p><hr size="5px" style="color: #ffbf00; width:50%;">
 								<p class="mb-0">
 									Menyediakan jasa hukum untuk perusahaan lokal dan multi-nasional, termasuk pengurusan berbagai aspek yang dibutuhkan dalam pendirian dan pengoperasian perusahaan di Indonesia. 
 								</p>
@@ -416,7 +416,7 @@
 								<h4>Bankruptcy (Kepailitan)</h4>
 								<p class="mb-0 text-primary">
 									Bankruptcy handles various issues related to bankruptcy and other procedures regarding the payment of debt obligations.
-								</p><br>
+								</p><hr size="5px" style="color: #ffbf00; width:50%;">
 								<p class="mb-0">
 									Menangani berbagai masalah yang berkaitan dengan kepailitan dan prosedur lain mengenai pembayaran kewajiban hutang.
 								</p>
@@ -439,7 +439,7 @@
 								<h4>Legal Drafting (Rancangan Naskah Hukum)</h4>
 								<p class="mb-0 text-primary">
 									Legal services provided in the form of preparation of certain documents required by the client.
-								</p><br>
+								</p><hr size="5px" style="color: #ffbf00; width:50%;">
 								<p class="mb-0">
 									Jasa hukum yang diberikan berupa penyusunan dokumen-dokumen tertentu yang dibutuhkan oleh klien.
 								</p>
@@ -462,7 +462,7 @@
 								<h4>Government Legal Consultant (Konsultan Hukum Pemerintahan)</h4>
 								<p class="mb-0 text-primary">
 									Government Legal Consultant provides legal consulting services to the Government as a result of a lawsuit/lawsuit from a certain party against the Government in which the nature of the work and/or the defense cannot be postponed, while still prioritizing aspects of quality, efficiency, and punctuality.
-								</p><br>
+								</p><hr size="5px" style="color: #ffbf00; width:50%;">
 								<p class="mb-0">
 									Menyediakan jasa layanan konsultasi hukum untuk Pemerintah sebagai akibat dari adanya Gugatan/Tuntutan Hukum dari pihak tertentu kepada Pemerintah hal mana sifat pekerjaan dan/atau pembelaannya tidak dapat ditunda, dengan tetap mengutamakan aspek kualitas, efisiensi, dan ketepatan waktu.
 								</p>
@@ -485,7 +485,7 @@
 								<h4>Our Banking & Finance (Perbankan & Keuangan)</h4>
 								<p class="mb-0 text-primary">
 									Our Banking & Finance provides advice to financial institutions and large corporations regarding commercial loans, syndicated loans, letters of credit, construction loans, project finance, asset-based instruments, and leasing and security arrangements.
-								</p><br>
+								</p><hr size="5px" style="color: #ffbf00; width:50%;">
 								<p class="mb-0">
 									Kami memberikan saran kepada lembaga keuangan dan perusahaan besar mengenai pinjaman komersial, pinjaman sindikasi, letter of credit, pinjaman konstruksi, pembiayaan proyek, instrumen berbasis aset, dan pengaturan leasing dan keamanan.
 								</p>
@@ -508,7 +508,7 @@
 								<h4>Construction Law & Procurement (Hukum Konstruksi & Pengadaan Barang dan Jasa)</h4>
 								<p class="mb-0 text-primary">
 									Construction Law & Procurement of Goods and Services We provide legal views to clients regarding all legal requirements regarding their construction, from preparation of tenders and project documentation to settlement of disputes arising from projects.
-								</p><br>
+								</p><hr size="5px" style="color: #ffbf00; width:50%;">
 								<p class="mb-0">
 								    Kami memberikan pandangan hukum kepada klien mengenai semua persyaratan hukum mengenai konstruksi mereka, mulai dari persiapan tender dan dokumentasi proyek hingga penyelesaian perselisihan yang timbul dari proyek.
 								</p>
@@ -531,7 +531,7 @@
 								<h4>Property Law (Hukum Properti)</h4>
 								<p class="mb-0 text-primary">
 									Property Law We understand that many legal issues can arise in connection with property projects. Our goal is to provide clients with clear information, practical advice and optimal solutions to achieve their goals in property projects in a cost effective legal arrangement.
-								</p><br>
+								</p><hr size="5px" style="color: #ffbf00; width:50%;">
 								<p class="mb-0">
 									Kami memahami bahwa banyak masalah hukum dapat muncul sehubungan dengan proyek properti. Tujuan kami adalah memberikan informasi yang jelas, saran praktis dan solusi optimal kepada klien untuk mencapai tujuan mereka dalam proyek properti dalam pengaturan hukum yang hemat biaya.
 								</p>
@@ -554,7 +554,7 @@
 								<h4>Port & Shipping Law provides (Undang-undang Pelabuhan & Pelayaran)</h4>
 								<p class="mb-0 text-primary">
 									Our Port & Shipping Law provides advice on all types of corporate and regulatory risks related to the operation of ports and the carriage of goods and passengers at sea, along with environmental advice on new emission regulations and possible carbon taxes. We also provide advice on anti-bribery, corruption and sanctions affecting the port industry.
-								</p><br>
+								</p><hr size="5px" style="color: #ffbf00; width:50%;">
 								<p class="mb-0">
 									Kami memberikan saran tentang semua jenis risiko perusahaan dan peraturan yang terkait dengan pengoperasian pelabuhan dan pengangkutan barang dan penumpang di laut, bersama dengan saran lingkungan tentang peraturan emisi baru dan kemungkinan pajak karbon. Kami juga memberikan saran tentang antisuap, korupsi dan sanksi yang mempengaruhi industri pelabuhan.
 								</p>
@@ -577,7 +577,7 @@
 								<h4>Investment (Investasi)</h4>
 								<p class="mb-0 text-primary">
 									Investment consulting related to the legal aspects of investment in Indonesia, assisting in the management of every investment permit required by laws and regulations.
-								</p><br>
+								</p><hr size="5px" style="color: #ffbf00; width:50%;">
 								<p class="mb-0">
 									Konsultasi Investasi (Investasi) terkait dengan aspek hukum penanaman modal di Indonesia, membantu pengurusan setiap izin penanaman modal yang dipersyaratkan oleh peraturan perundang-undangan.
 								</p>

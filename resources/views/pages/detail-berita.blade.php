@@ -70,8 +70,9 @@
 		<!-- Navbar & Carousel Start -->
 		<div class="container-fluid position-relative p-0">
 			<nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
-				<a href="index.html" class="navbar-brand p-0">
-					<h3 class="m-0 text-primary"><i class="fa fa-user-tie me-2"></i>ABP Lawfirm</h3>
+				<a href="" class="navbar-brand p-0">
+					{{-- <h3 class="m-0 text-primary"><i class="fa fa-user-tie me-2"></i>ABP Lawfirm</h3> --}}
+					<img class="logo" src="{{asset('/img/logo.png')}}" alt="">
 				</a>
 				<button
 					class="navbar-toggler"
@@ -96,7 +97,7 @@
                     <div class="col-lg-12">
                         <!-- Blog Detail Start -->
                         <div class="mb-5">
-                            <img class="img-fluid w-100 rounded mb-5" src="{{ asset('upload/' . $berita->gambar_berita) }}" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="{{$berita->gambar_berita ? asset('upload/' .$berita->gambar_berita) : asset('/img/berita.png')}}" alt="">
                             <h1 class="mb-4">{{$berita->judul}}</h1>
                             <p>{{$berita->konten}}</p>
                             <small><i class="far fa-user"></i> {{ $berita->users->name }}</small> <br>
