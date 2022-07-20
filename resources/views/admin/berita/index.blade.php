@@ -41,7 +41,7 @@
                       </td>
                       <td class="align-middle text-center">
                         <div>
-                          <img src="{{ asset('upload/' . $data->gambar_berita) }}" width=100 alt="" center>
+                          <img src="{{$data->gambar_berita ? asset('upload/' .$data->gambar_berita) : asset('/frontend-assets/assets/img/berita.png')}}" width=100 alt="" center>
                         </div>
                       </td>
                       <td class="align-middle text-center">
