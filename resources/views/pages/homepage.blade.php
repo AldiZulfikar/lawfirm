@@ -487,7 +487,7 @@
 									Our Banking & Finance provides advice to financial institutions and large corporations regarding commercial loans, syndicated loans, letters of credit, construction loans, project finance, asset-based instruments, and leasing and security arrangements.
 								</p><br>
 								<p class="mb-0">
-									kami memberikan saran kepada lembaga keuangan dan perusahaan besar mengenai pinjaman komersial, pinjaman sindikasi, letter of credit, pinjaman konstruksi, pembiayaan proyek, instrumen berbasis aset, dan pengaturan leasing dan keamanan.
+									Kami memberikan saran kepada lembaga keuangan dan perusahaan besar mengenai pinjaman komersial, pinjaman sindikasi, letter of credit, pinjaman konstruksi, pembiayaan proyek, instrumen berbasis aset, dan pengaturan leasing dan keamanan.
 								</p>
 							</div>
 						</div>
@@ -510,7 +510,7 @@
 									Construction Law & Procurement of Goods and Services We provide legal views to clients regarding all legal requirements regarding their construction, from preparation of tenders and project documentation to settlement of disputes arising from projects.
 								</p><br>
 								<p class="mb-0">
-									Kami memberikan pandangan hukum kepada klien mengenai semua persyaratan hukum mengenai konstruksi mereka, mulai dari persiapan tender dan dokumentasi proyek hingga penyelesaian perselisihan yang timbul dari proyek.
+								    Kami memberikan pandangan hukum kepada klien mengenai semua persyaratan hukum mengenai konstruksi mereka, mulai dari persiapan tender dan dokumentasi proyek hingga penyelesaian perselisihan yang timbul dari proyek.
 								</p>
 							</div>
 						</div>
@@ -556,7 +556,7 @@
 									Our Port & Shipping Law provides advice on all types of corporate and regulatory risks related to the operation of ports and the carriage of goods and passengers at sea, along with environmental advice on new emission regulations and possible carbon taxes. We also provide advice on anti-bribery, corruption and sanctions affecting the port industry.
 								</p><br>
 								<p class="mb-0">
-									kami memberikan saran tentang semua jenis risiko perusahaan dan peraturan yang terkait dengan pengoperasian pelabuhan dan pengangkutan barang dan penumpang di laut, bersama dengan saran lingkungan tentang peraturan emisi baru dan kemungkinan pajak karbon. Kami juga memberikan saran tentang antisuap, korupsi dan sanksi yang mempengaruhi industri pelabuhan.
+									Kami memberikan saran tentang semua jenis risiko perusahaan dan peraturan yang terkait dengan pengoperasian pelabuhan dan pengangkutan barang dan penumpang di laut, bersama dengan saran lingkungan tentang peraturan emisi baru dan kemungkinan pajak karbon. Kami juga memberikan saran tentang antisuap, korupsi dan sanksi yang mempengaruhi industri pelabuhan.
 								</p>
 							</div>
 						</div>
