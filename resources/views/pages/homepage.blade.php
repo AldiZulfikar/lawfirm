@@ -835,7 +835,7 @@
 						<div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
 							<img
 								class="img-fluid rounded"
-								src="{{asset('/img/testimonial/1.png')}}"
+								src="{{asset('/img/user-foto.jpg')}}"
 								style="width: 60px; height: 60px"
 							/>
 							<div class="ps-4">
@@ -851,7 +851,7 @@
 						<div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
 							<img
 								class="img-fluid rounded"
-								src="{{asset('/img/testimonial/1.png')}}"
+								src="{{asset('/img/user-foto.jpg')}}"
 								style="width: 60px; height: 60px"
 							/>
 							<div class="ps-4">
@@ -867,7 +867,7 @@
 						<div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
 							<img
 								class="img-fluid rounded"
-								src="{{asset('/img/testimonial/1.png')}}"
+								src="{{asset('/img/user-foto.jpg')}}"
 								style="width: 60px; height: 60px"
 							/>
 							<div class="ps-4">
@@ -883,7 +883,7 @@
 						<div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
 							<img
 								class="img-fluid rounded"
-								src="{{asset('/img/testimonial/1.png')}}"
+								src="{{asset('/img/user-foto.jpg')}}"
 								style="width: 60px; height: 60px"
 							/>
 							<div class="ps-4">
