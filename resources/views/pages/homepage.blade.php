@@ -111,12 +111,12 @@
 									ABP Lawfirm
 								</h5>
 								<h1 class="display-1 text-white mb-md-4 animated zoomIn">
-									The Law is the Public Conscience
+									Solving Problems For Builders And Businesses
 								</h1>
 								<a
 									href="#contact"
 									class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft"
-									>Hubungi Kami</a
+									>Contact Us</a
 								>
 							</div>
 						</div>
@@ -131,12 +131,12 @@
 									ABP Lawfirm
 								</h5>
 								<h1 class="display-1 text-white mb-md-4 animated zoomIn">
-									Hukum adalah Hati Nurani Publik
+									Memecahkan Masalah Untuk Pembangun Dan Bisnis
 								</h1>
 								<a
 									href="#contact"
 									class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft"
-									>Contact Us</a
+									>Hubungi Kami</a
 								>
 							</div>
 						</div>
