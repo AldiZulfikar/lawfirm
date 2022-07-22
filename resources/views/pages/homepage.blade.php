@@ -651,7 +651,7 @@
 								</div>
 							</div>
 							<div class="text-center py-4">
-								<h4 class="text-dark">Ade Suguri, SH</h4>
+								<h4 class="text-dark">Ade Sugiri, SH</h4>
 								<p class="text-dark text-uppercase m-0">Partners</p>
 							</div>
 						</div>
